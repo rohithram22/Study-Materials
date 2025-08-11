@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essence of Linear Algebra/Chapter 1 -  Vectors.md",
+                "file": "Essence of Linear Algebra/Chapter 2 - Linear Combinations, Span, Basis Vectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 -  Vectors"
+              "title": "Chapter 2 - Linear Combinations, Span, Basis Vectors"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essence of Linear Algebra/Chapter 1 -  Vectors.md",
+                "file": "Essence of Linear Algebra/Chapter 2 - Linear Combinations, Span, Basis Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 1 -  Vectors"
+              "title": "Backlinks for Chapter 2 - Linear Combinations, Span, Basis Vectors"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essence of Linear Algebra/Chapter 1 -  Vectors.md",
+                "file": "Essence of Linear Algebra/Chapter 2 - Linear Combinations, Span, Basis Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapter 1 -  Vectors"
+              "title": "Outgoing links from Chapter 2 - Linear Combinations, Span, Basis Vectors"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essence of Linear Algebra/Chapter 1 -  Vectors.md",
+                "file": "Essence of Linear Algebra/Chapter 2 - Linear Combinations, Span, Basis Vectors.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 1 -  Vectors"
+              "title": "Outline of Chapter 2 - Linear Combinations, Span, Basis Vectors"
             }
           }
         ]
@@ -170,8 +170,11 @@
   },
   "active": "2c55469c381bea5b",
   "lastOpenFiles": [
-    "Essence of Linear Algebra/Media/Pasted image 20250808110124.png",
     "Essence of Linear Algebra/Chapter 1 -  Vectors.md",
+    "Essence of Linear Algebra/Chapter 2 - Linear Combinations, Span, Basis Vectors.md",
+    "Essence of Linear Algebra/Media/Pasted image 20250810200742.png",
+    "Essence of Linear Algebra/Media/Pasted image 20250810200013.png",
+    "Essence of Linear Algebra/Media/Pasted image 20250808110124.png",
     "Essence of Linear Algebra/Media",
     "Essence of Linear Algebra/Media/Pasted image 20250807233625.png"
   ]

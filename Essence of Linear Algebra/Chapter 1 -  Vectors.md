@@ -78,3 +78,6 @@ $$ 2  . \begin{pmatrix} x \\ y \end{pmatrix} = \begin{pmatrix} 2x \\ 2y \end{pma
 
 The ability to transform between number lists and coordinate system representation helps data analysts, mathematician etc.
 
+
+
+#vectors #vectoraddition #vectormultiplication
