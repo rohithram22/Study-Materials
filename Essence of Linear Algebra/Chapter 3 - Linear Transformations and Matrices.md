@@ -7,7 +7,7 @@ Transformation is a fancy word for function, takes in input and spits out an out
 
 The word transformation is used instead of function because it wants to signify a movement.
 
-If a transformation takes an input vector to an output vector we image the input vector moving to the output vector. 
+If a transformation takes an input vector to an output vector we imagine the input vector moving to the output vector. 
 
 Transformation is linear if it has two properties
 
@@ -90,9 +90,15 @@ Example: if we rotate all of space 90 degrees counterclockwise, then  i lands on
 to  figure out what happens to any vector after a 90 degree rotation you can multiply its coordinates by that matrix.
 
 
-
-
+Another example of a linear transformation is shear - i and j would look like this 
+$$
+\begin{pmatrix}
+1 & 1 \\
+0 & 1
+\end{pmatrix}
+$$
 
 Matrices gives us a language to describe the transformation.
 
 #lineartransformations #matrices
+#shear
